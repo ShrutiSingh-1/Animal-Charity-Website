@@ -4,7 +4,6 @@ Coastal is a single page animal charity website that aims to help animals in nee
 
 This website is designed to provide information about our organization and the work we do to help animals in need. It includes several sections, including:
 
--> About us: This section provides an overview of our organization and mission.
 -> Testimonials: This section includes testimonials and reviews from our supporters and volunteers.
 -> What we do: This section provides information about the work we do to help animals in need.
 -> Why choose us: This section explains why visitors should choose our organization for their animal welfare donations and support.
